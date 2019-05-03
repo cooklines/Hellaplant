@@ -258,7 +258,7 @@ textarea.form-control {
 }
 
 .site-nav-toggle i, .site-nav-toggle i:before, .site-nav-toggle i:after {
-  background: #fff !important;
+  background: #000 !important;
 }
 
 .btn {
